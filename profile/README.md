@@ -1,6 +1,4 @@
-<img align="right" width="128" src="https://imagej.net/media/icons/scijava.svg">
-
-SciJava is a collection of foundational software libraries, upon which [ImageJ2](https://imagej.net/software/imagej2) and [Fiji](https://imagej.net/software/fiji) are built.
+<img align="right" width="128" src="https://imagej.net/media/icons/scijava.svg"> SciJava is a collection of foundational software libraries, upon which [ImageJ2](https://imagej.net/software/imagej2) and [Fiji](https://imagej.net/software/fiji) are built.
 It is a collaboration of projects providing software for scientific computing—an effort to cooperate and reuse code.
 
 * This organization is an [architectural layer](https://imagej.net/develop/architecture#organizational-structure) housing Java library components more general than imaging.
